@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tutran-se/permiflow/releases/download/v0.4.0/permiflow_0.4.0_windows_amd64.tar.gz",
+            "url": "https://github.com/tutran-se/permiflow/releases/download/v0.4.1/permiflow_0.4.1_windows_amd64.tar.gz",
             "bin": [
                 "permiflow.exe"
             ],
-            "hash": "047efa5021a0ff6c331ad2aa4424dc14aca6af59b4301ffcc3c179b40dfda8dd"
+            "hash": "1f1959293745bca44489d21ea029dc9b7e3ab15bbe59cf67d8ecdc88cca09141"
         }
     },
     "homepage": "https://github.com/tutran-se/permiflow",
